@@ -1,5 +1,5 @@
 
-Note: Below is the original readne file. The files in this repository were intended for distribution by the author, however,
+Note: Below is the original readme file. The files in this repository were intended for distribution by the author, however,
 they have been unavailable from the publisher for many years.
 
 ###############
